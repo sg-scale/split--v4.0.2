@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rubystats",       ">= 0.3.0"
 
   s.add_development_dependency "bundler",     ">= 1.17"
-  s.add_development_dependency "simplecov",   "~> 0.15"
+  s.add_development_dependency "simplecov",   "~> 1.3"
   s.add_development_dependency "rack-test",   "~> 2.0"
   s.add_development_dependency "rake",        "~> 13"
   s.add_development_dependency "rspec",       "~> 3.7"
